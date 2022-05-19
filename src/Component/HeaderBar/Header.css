@@ -1,0 +1,9 @@
+.HeaderContent{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.TaskButton{
+    padding-right: 20px;
+    width: 100px;
+}

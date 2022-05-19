@@ -1,0 +1,31 @@
+.CardComponent{
+    background-color: yellow;
+}
+.OuterGrid{
+    padding-left: 200px;
+}
+.OuterPaper{
+    padding: 20px;
+}
+.ButtonDiv{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+.TaskDiv{
+    text-align: center;
+}
+.TopBannerContent{
+    text-align: center;
+}
+.InputBox{
+    padding-left: 5px;
+    display: flex;
+    justify-content: center;
+}
+.InputBox{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
